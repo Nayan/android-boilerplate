@@ -1,5 +1,10 @@
 <resources>
-    <string name="app_name">AndroidBoilerPlate</string>
+    <!--string for analytics starts here-->
+    <string name="app_start">App Started</string>
+    <!--string for analytics ends here-->
+
+
+    <string name="app_name">Finflux</string>
 
     <string name="action_settings">Settings</string>
 
@@ -9,4 +14,9 @@
 
     <string name="empty_ribots">There aren\'t any ribots</string>
     <string name="error_loading_ribots">There was a problem loading the ribots</string>
+
+    <!--base activity string starts here-->
+    <string name="network.offline">No Internet Connection...</string>
+    <string name="please_wait">Please wait....</string>
+    <!--base activity string ends here-->
 </resources>
